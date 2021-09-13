@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Plant Disease App created using React Native, Tensorflow & Python Flask Server.
+- My most recently deployed based on Tensorflow.js and Node.js can be [found here](https://captcha-for-visually-impaired.web.app/).
+    
